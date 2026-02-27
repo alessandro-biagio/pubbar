@@ -1,0 +1,3 @@
+php artinsan serve
+cd pubbar -> npm run dev
+php artisan schedule:work  (per eseguire Console/AutoCancelExpiredOrders.php)
